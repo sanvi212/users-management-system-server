@@ -6,6 +6,10 @@ This is the backend server for the **Users Management System** project, built wi
 
 **Frontend Live Link:** [https://users-management-system-66473.web.app](https://users-management-system-66473.web.app)
 
+## 🌐 Live Server URL
+
+🔗 **https://users-management-system-server-rose.vercel.app**
+
 ## 🚀 Features
 
 - ✅ Fetch all users
